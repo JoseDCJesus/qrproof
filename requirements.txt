@@ -11,7 +11,7 @@ html5lib==0.999
 idna==2.7
 language-selector==0.1
 lightdm-gtk-greeter-settings==1.2.1
-lxml==3.5.0
+lxml==4.6.3
 maxminddb==1.4.1
 menulibre==2.1.3
 mugshot==0.3.1
