@@ -29,7 +29,7 @@ python-debian==0.1.27
 python-systemd==231
 pytz==2018.5
 pyxdg==0.25
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.19.1
 sessioninstaller==0.0.0
 six==1.10.0
