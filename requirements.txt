@@ -7,7 +7,7 @@ defer==1.0.6
 Django==2.1
 django-polls==0.1
 geoip2==2.9.0
-html5lib==0.999
+html5lib==0.999999999
 idna==2.7
 language-selector==0.1
 lightdm-gtk-greeter-settings==1.2.1
